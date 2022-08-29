@@ -3,8 +3,8 @@
     The “Fresnel Equations” for Diffuse radiation on Inclined photovoltaic Surfaces (FEDIS)
     is an analytical solution of diffuse transmission based on the rigorous integration of
     an alternate form of the Fresnel equations. The approach leads to a simple yet accurate
-    relative transmittance model (often referred to as incident angle modifier or angle of incidence model) 
-    that reconciles the solar energy sensed by pyranometers and PV panels.
+    relative transmittance model (often referred to as incident angle modifier or angle of 
+    incidence model) that reconciles the solar energy sensed by pyranometers and PV panels.
 
     Parameters
     ----------
