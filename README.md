@@ -1,4 +1,5 @@
    '''
+    
     The “Fresnel Equations” for Diffuse radiation on Inclined photovoltaic Surfaces (FEDIS)
     is an analytical solution of diffuse transmission based on the rigorous integration of
     an alternate form of the Fresnel equations. The approach leads to a simple yet accurate
